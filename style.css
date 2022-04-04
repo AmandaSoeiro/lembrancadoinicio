@@ -1,0 +1,72 @@
+
+
+.photo {
+
+
+}
+body {
+ background: rgb(178, 243, 255);
+ font-family: Century;
+ max-width: 900px;
+ margin: auto;
+ 
+}
+
+#title {
+    font-size: 30px;
+    text-transform:uppercase;
+ 
+}
+
+a{
+    text-decoration: underline;
+    color:blueviolet
+}
+
+#title, .subtitle, .post_title {
+    color:crimson
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: rgb(255, 192, 205);
+    padding: 15px;
+    border: 5px solid crimson;
+    margin-bottom: 15px;
+    border-top: 5px dashed crimson;
+    border-right: 5px dashed crimson;
+    border-radius: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform:full-width;
+    text-align: justify;
+    
+
+}
+
+.post-imag {
+margin-bottom: 15px;
+border-radius: 2px;
+width: 100%;
+
+}
+
+.contact_list {
+list-style-type: none;
+padding: 0;
+padding-left: 15px;
+
+}
+.contact_list li a {
+    text-decoration: none;
+    font-tra
+}
